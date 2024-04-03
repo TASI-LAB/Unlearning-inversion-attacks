@@ -1,7 +1,9 @@
 # Unlearning_Inversion_Attacks
 
 This repository contains Python code for the inversion attack in machine unlearning in the paper "Learn What You Want to Unlearn: Unlearning Inversion Attacks against Machine Unlearning".
+
 The code has been tested under CUDA 11.8, Python 3.9.13 and Pytorch 2.0.1.
+
 There are two components in our code: preparation of the pretrained model (for learning and unlearning later) and data recovery/label inference for unlearned model. 
 
 
