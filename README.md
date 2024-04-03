@@ -1,4 +1,4 @@
-# Unlearning_Inversion_Attacks
+# Unlearning Inversion Attacks
 
 This repository contains Python code for the inversion attack in machine unlearning in the paper "Learn What You Want to Unlearn: Unlearning Inversion Attacks against Machine Unlearning".
 
